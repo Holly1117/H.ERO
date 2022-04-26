@@ -1,7 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: local('UD デジタル 教科書体 NK-B');
+}
+
 body {
     background: #2b2b2b;
     color: #fff;
     margin: 0%;
+    font-family: 'MyFont';
+    box-sizing : border-box;
 }
 
 /**menu**/
@@ -48,7 +55,6 @@ h1 {
     border-radius: 2px;
     font-size: 0.9em;
     transition: all .1s;
-    font-family: "UD デジタル 教科書体 NK-B";
 }
 
 .radioLabel:hover {
@@ -56,11 +62,56 @@ h1 {
 }
 
 .radioInput:checked+.radioLabel {
-    color: #2f3640;
+    color: #2b2b2b;
     background-color: #fbc531 !important;
 }
 
 /**radioButton**/
+
+/**search**/
+
+.searchContainer{
+    margin:20px auto;
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid #757575;
+    display: block;
+    padding: 3px 10px;
+    border-radius: 3px;
+    height: 2.3em;
+    width: 30%;
+    overflow: hidden;
+  }
+  .searchContainer input[type="text"]{
+    font-family: 'MyFont';
+    width:92%;
+    border: none;
+    height: 2.1em;
+    background-color: #2b2b2b;
+    color: #fff;
+  }
+  .searchContainer input[type="text"]:focus {
+    outline: 0;
+  }
+  .searchContainer input[type="submit"]{
+    cursor: pointer;
+    font-family: FontAwesome;
+    border: none;
+    background: #2b2b2b;
+    color: #fff;
+    position: absolute;
+    width: 3.5em;
+    height: 3.0em;
+    right:0px;
+    top: -3px;
+    outline : none;
+  }
+  .searchContainer input[type="submit"]:hover{
+    background: #fbc531;
+    color: #2b2b2b;
+  }
+  
+/**search**/
 
 /**card**/
 .cardContainer {
@@ -196,6 +247,10 @@ h1 {
 
     .radioLabel {
         margin: 1%;
+    }
+
+    .searchContainer{
+        width:80%;
     }
 }
 
