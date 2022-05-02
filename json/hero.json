@@ -72,18 +72,6 @@
     "menu_date_month": 4
   },
   {
-    "game_name": "尊厳剝奪コンバット",
-    "game_date": "2022-04-21",
-    "game_url": "https://www.freem.ne.jp/win/game/28116",
-    "game_image": "HI00_121",
-    "game_youtube": null,
-    "game_kinds": null,
-    "brand_name": "恥と屈辱の交差点",
-    "brand_url": "http://hajiandchijoku.x.fc2.com/top.html",
-    "menu_date_year": 2022,
-    "menu_date_month": 4
-  },
-  {
     "game_name": "神楽黎明記～ましろの章～",
     "game_date": "2022-04-22",
     "game_url": "https://www.debonosu.jp/debo/game/reimeiki_21/",
@@ -120,26 +108,14 @@
     "menu_date_month": 4
   },
   {
-    "game_name": "ギンヌンガガプ",
-    "game_date": "2022-04-22",
-    "game_url": "https://kawawa-nowaki.jimdosite.com/games/",
-    "game_image": "HI00_110",
+    "game_name": "エヴァーメイデン追加ミニシナリオ「悪夢と救済」",
+    "game_date": "2022-04-27",
+    "game_url": "https://liar.co.jp/ever-maiden/special.html#append",
+    "game_image": "HI00_125",
     "game_youtube": null,
     "game_kinds": null,
-    "brand_name": "TETRAPOD",
-    "brand_url": "https://kawawa-nowaki.jimdosite.com/",
-    "menu_date_year": 2022,
-    "menu_date_month": 4
-  },
-  {
-    "game_name": "ストレスとの闘い",
-    "game_date": "2022-04-24",
-    "game_url": "https://www.freem.ne.jp/win/game/28151",
-    "game_image": "HI00_122",
-    "game_youtube": null,
-    "game_kinds": null,
-    "brand_name": "N(ナナシノ・ゴンベエ)",
-    "brand_url": "https://ameblo.jp/e-behitorigoto",
+    "brand_name": "Liar-soft(ビジネスパートナー)",
+    "brand_url": "https://www.liar.co.jp/",
     "menu_date_year": 2022,
     "menu_date_month": 4
   },
@@ -444,6 +420,18 @@
     "menu_date_month": 4
   },
   {
+    "game_name": "魔法戦士レムティアナイツ2AnotherWorld",
+    "game_date": "2022-04-29",
+    "game_url": "",
+    "game_image": "HI00_127",
+    "game_youtube": null,
+    "game_kinds": null,
+    "brand_name": "Triangle",
+    "brand_url": "http://www.route2.co.jp/",
+    "menu_date_year": 2022,
+    "menu_date_month": 4
+  },
+  {
     "game_name": "イキ過ぎ異文化交流～清楚人妻NTR堕ちっ!～",
     "game_date": "2022-05-06",
     "game_url": "https://www.appetite-game.com/apt_208.html",
@@ -512,6 +500,18 @@
     "game_kinds": "(NS)",
     "brand_name": "オトメイト",
     "brand_url": "https://www.otomate.jp/",
+    "menu_date_year": 2022,
+    "menu_date_month": 5
+  },
+  {
+    "game_name": "千恋＊万花",
+    "game_date": "2022-05-26",
+    "game_url": "https://store-jp.nintendo.com/list/software/70010000046432.html",
+    "game_image": "HI00_129",
+    "game_youtube": null,
+    "game_kinds": "(NS)",
+    "brand_name": "NekonyanSoft",
+    "brand_url": "https://nekonyansoft.com/",
     "menu_date_year": 2022,
     "menu_date_month": 5
   },
@@ -740,6 +740,30 @@
     "game_kinds": null,
     "brand_name": "DWARFSOFT",
     "brand_url": "http://www.orcsoft.jp/",
+    "menu_date_year": 2022,
+    "menu_date_month": 5
+  },
+  {
+    "game_name": "奥さまの回復術純愛編",
+    "game_date": "2022-05-27",
+    "game_url": "https://www.alicesoft.com/okusama/",
+    "game_image": "HI00_130",
+    "game_youtube": null,
+    "game_kinds": null,
+    "brand_name": "ALICESOFT",
+    "brand_url": "http://www.alicesoft.com/",
+    "menu_date_year": 2022,
+    "menu_date_month": 5
+  },
+  {
+    "game_name": "奥さまの回復術寝取られ編",
+    "game_date": "2022-05-27",
+    "game_url": "https://www.alicesoft.com/okusama/story02/",
+    "game_image": "HI00_131",
+    "game_youtube": null,
+    "game_kinds": null,
+    "brand_name": "ALICESOFT",
+    "brand_url": "http://www.alicesoft.com/",
     "menu_date_year": 2022,
     "menu_date_month": 5
   },
@@ -1236,6 +1260,18 @@
     "menu_date_month": 7
   },
   {
+    "game_name": "SummerPocketsREFLECTIONBLUE",
+    "game_date": "2022-07-21",
+    "game_url": "https://www.prot.co.jp/ps4/summerpocketsrb/index.html",
+    "game_image": "HI00_132",
+    "game_youtube": null,
+    "game_kinds": "(PS4)",
+    "brand_name": "PROTOTYPE",
+    "brand_url": "http://www.prot.co.jp/",
+    "menu_date_year": 2022,
+    "menu_date_month": 7
+  },
+  {
     "game_name": "霊神楽～奮闘記～参",
     "game_date": "2022-07-22",
     "game_url": "https://www.debonosu.jp/debo/game/tamakagura_3/index.html",
@@ -1440,6 +1476,42 @@
     "menu_date_month": 7
   },
   {
+    "game_name": "触災の島-IslandoftheDead-",
+    "game_date": "2022-07-29",
+    "game_url": "https://www.syoku-game.com/04syokusai/",
+    "game_image": "HI00_133",
+    "game_youtube": null,
+    "game_kinds": null,
+    "brand_name": "SYOKU",
+    "brand_url": "https://www.syoku-game.com/",
+    "menu_date_year": 2022,
+    "menu_date_month": 7
+  },
+  {
+    "game_name": "十三支演義偃月三国伝1・2forNintendoSwitch",
+    "game_date": "2022-08-25",
+    "game_url": "https://www.otomate.jp/jyuzaengi/switch/",
+    "game_image": "HI00_134",
+    "game_youtube": null,
+    "game_kinds": "(NS)",
+    "brand_name": "オトメイト",
+    "brand_url": "https://www.otomate.jp/",
+    "menu_date_year": 2022,
+    "menu_date_month": 8
+  },
+  {
+    "game_name": "アマナツ",
+    "game_date": "2022-08-26",
+    "game_url": "http://azarashi-soft.nexton-net.jp/amanatu/",
+    "game_image": "HI00_135",
+    "game_youtube": null,
+    "game_kinds": null,
+    "brand_name": "あざらしそふと",
+    "brand_url": "http://azarashi-soft.nexton-net.jp/",
+    "menu_date_year": 2022,
+    "menu_date_month": 8
+  },
+  {
     "game_name": "狐が僕を待っているTheFoxAwaitsMe",
     "game_date": "2022-09-08",
     "game_url": "https://cosen-net.com/foxps4/",
@@ -1448,6 +1520,42 @@
     "game_kinds": "(PS4)",
     "brand_name": "COSEN",
     "brand_url": "https://cosen-net.com/",
+    "menu_date_year": 2022,
+    "menu_date_month": 9
+  },
+  {
+    "game_name": "モノクロームメビウス刻ノ代贖",
+    "game_date": "2022-09-08",
+    "game_url": "https://aquaplus.jp/mm/",
+    "game_image": "HI00_136",
+    "game_youtube": null,
+    "game_kinds": null,
+    "brand_name": "AQUAPLUS",
+    "brand_url": "https://aquaplus.jp/index.html",
+    "menu_date_year": 2022,
+    "menu_date_month": 9
+  },
+  {
+    "game_name": "モノクロームメビウス刻ノ代贖",
+    "game_date": "2022-09-08",
+    "game_url": "https://aquaplus.jp/mm/",
+    "game_image": "HI00_137",
+    "game_youtube": null,
+    "game_kinds": "(PS5)",
+    "brand_name": "AQUAPLUS",
+    "brand_url": "https://aquaplus.jp/index.html",
+    "menu_date_year": 2022,
+    "menu_date_month": 9
+  },
+  {
+    "game_name": "モノクロームメビウス刻ノ代贖",
+    "game_date": "2022-09-08",
+    "game_url": "https://aquaplus.jp/mm/",
+    "game_image": "HI00_138",
+    "game_youtube": null,
+    "game_kinds": "(PS4)",
+    "brand_name": "AQUAPLUS",
+    "brand_url": "https://aquaplus.jp/index.html",
     "menu_date_year": 2022,
     "menu_date_month": 9
   },
