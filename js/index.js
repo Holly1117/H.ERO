@@ -72,9 +72,11 @@ function setCard(searchName, argYear, argMonth) {
                 if (data[i].game_kinds == "(NS)") {
                     kindsLogo = "<img class=\"hardLogo\" src=\"./image/logo/ns-logo.webp\">";
                 } else if (data[i].game_kinds == "(PS4)") {
-                    kindsLogo = "<img class=\"hardLogo\" src=\"./image/logo/ps-logo.webp\">";
-                } else if (data[i].game_kinds == "(XBO)") {
+                    kindsLogo = "<img class=\"hardLogo\" src=\"./image/logo/ps4-logo.webp\">";
+                } else if (data[i].game_kinds == "(XBOX)") {
                     kindsLogo = "<img class=\"hardLogo\" src=\"./image/logo/xbox-logo.svg\">";
+                } else if (data[i].game_kinds == "(PS5)"){
+                    kindsLogo = "<img class=\"hardLogo\" src=\"./image/logo/ps5-logo.webp\">";
                 }
                 let imageSrc = "./image/game/" + data[i].game_image + ".webp";
                 let undefined = "./image/game/undefined.webp";
